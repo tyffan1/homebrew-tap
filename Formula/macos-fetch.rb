@@ -1,8 +1,8 @@
 class MacosFetch < Formula
   desc "neofetch-style system info for macOS"
   homepage "https://github.com/tyffan1/macos-fetch"
-  url "https://github.com/tyffan1/macos-fetch/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "08aaffa9834d15bcf1a076317fd93574a04144a7718e45ddb7fa71df9316b0ef"
+  url "https://github.com/tyffan1/macos-fetch/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "c4e174e375d87a0a79358b8d9807bdec1e046786c67a797fbfd5976b9aabb552"
   license "MIT"
 
   def install
